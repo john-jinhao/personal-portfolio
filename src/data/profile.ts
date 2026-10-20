@@ -16,7 +16,7 @@ export const careerHistory: CareerEntry[] = [
     role: "Senior Boarding Executive · Facilities Operations",
     organisation: "Hwa Chong Institution Boarding School",
     period: "Sep 2023 — Present",
-    responsibilities: "Lead facilities operations, building maintenance, vendor and contractor management, tender and ITQ administration, fire-safety responsibilities and facilities improvement planning across a residential environment.",
+    responsibilities: "Lead facilities operations and upgrading, building maintenance, vendor and contractor management, tender and ITQ administration, fire-safety responsibilities and facilities improvement planning across a residential environment.",
   },
   {
     role: "Boarding Executive",
